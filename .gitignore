@@ -77,4 +77,4 @@ Desktop.ini
 crashlytics-build.properties
 *.tmp
 *.bak
-*.swp
+*.swp.plastic/
